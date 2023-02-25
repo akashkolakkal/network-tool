@@ -48,5 +48,5 @@ Default Gateway Finder<br>
 
 <B><H2>Installation</H2></B>
 ```git clone https://github.com/varospaxo/network-analysis-tools```<br>
-```cd network-analysis-tools```<br>
+```cd network-tool```<br>
 ```java Tools.java```<br>
