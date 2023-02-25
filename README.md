@@ -1,4 +1,4 @@
-# network-analysis-tools
+# Network Analysis Tool
 
 University of Mumbai Java Mini Project<br><br>
 <b>Credits:</b><br>
@@ -44,9 +44,9 @@ Default Gateway Finder<br>
 ![image](https://user-images.githubusercontent.com/64273563/209561418-45afcf89-0aa0-4fac-b694-344cb166e71f.png)<br>
 
 <B><H2>Dependencies</H2></B>
-The tools need Java Development Kit (JDK) to be installed on the system which can be downloaded from [here](https://www.oracle.com/in/java/technologies/downloads/)
+[Java Development Kit (JDK)](https://www.oracle.com/in/java/technologies/downloads/)
 
-<B><H2>Executing the program</H2></B>
+<B><H2>Installation</H2></B>
 ```git clone https://github.com/varospaxo/network-analysis-tools```<br>
 ```cd network-analysis-tools```<br>
 ```java Tools.java```<br>
