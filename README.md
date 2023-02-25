@@ -1,4 +1,4 @@
-# Network Analysis Tool
+# Network Tool
 
 University of Mumbai Java Mini Project<br><br>
 <b>Credits:</b><br>
